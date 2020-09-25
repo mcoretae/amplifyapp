@@ -7,6 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+	  <p>
+	  Inserting custom text here on 2020-09-25 at 12:23pm
+	  </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
